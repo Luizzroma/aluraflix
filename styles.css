@@ -10,3 +10,8 @@ header {
     font-size: 32px;
     color: rgb(62, 213, 32);
 }
+
+::selection {
+  background-color:rgb(141, 64, 64) ;
+
+}
