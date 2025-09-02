@@ -1,6 +1,6 @@
 body {
-  color: rgb(0, 0, 0);
-  background: rgb(10, 32, 129);
+  color: rgb(255, 255, 255);
+  background: #000000;
   margin: 0px;
   font-family: "Chakra Petch", sans-serif;
 }
@@ -13,7 +13,7 @@ header {
 }
 
 section {
-  background: rgb(197, 31, 31);
+  background: rgba(0, 0, 0, 0.568);
   padding-bottom: 80px;
   padding-top: 80px;
   display: flex;
@@ -31,6 +31,8 @@ h1{
 p{
   font-size: 20px;
 }
-
+ img(
+  
+ )
 
 
