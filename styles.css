@@ -1,15 +1,15 @@
 body {
-  color: rgb(255, 255, 255);
-  background: #000000;
+  color: rgb(243, 236, 39);
+  background: #050404;
   margin: 0px;
   font-family: "Chakra Petch", sans-serif;
 }
 
 header {
-  border-bottom: solid 10px rgb(255, 255, 255);
+  border-bottom: solid 10px rgb(220, 206, 206);
   padding: 20px;
   font-size: 32px;
-  color: rgb(219, 221, 223);
+  color: rgb(69, 139, 214);
 }
 
 .chamada {
@@ -40,4 +40,17 @@ img {
   overflow-x: auto;
    gap: 10px;
 }
+.categoria-videos img{
+  opacity: 0.5;
+  height: 200px;
+}
 
+
+.categoria-videos img:hover{ 
+
+   opacity: 1.0;
+  border: 10px solid #e6d820;
+}
+ .categoria h2 {
+   color: rgb(29, 29, 170);
+ }
